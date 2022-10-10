@@ -1,4 +1,3 @@
-<h1 style="text-align: center;">Remo Nitschke</h1>
 
 
 

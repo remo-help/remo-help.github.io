@@ -1,4 +1,8 @@
-# Current Research Projects
+<head>
+    <meta charset="utf-8">
+    <title>Current Research Projects</title>
+    <description> A brief summary of current research </description>
+  </head>
 
 ## German Adjectives and Degree Modification
 _Dissertation Project_
@@ -14,4 +18,4 @@ _Collaboration with: Yuwei Wang, Chen Chen (University of Arizona)_
 The team I lead within the ToMCAT project maintains a rule based event extraction (EE) system. The domain we work in consists of spontaneous speech within a game-like context. The game setting itself is subject to change with very little notice. This leads to a very dynamic domain that does not lend itself to deep learning approaches. We are looking at ways to utilize our rule-based system to fine-tune a deep learning system. We are also working on co-reference resolution in natural dialogues.
 
 
-<p style="text-align: right;"> <a href="index.md">Return to mainpage</a> </p>
+<p style="text-align: right;"> <a href="https://remo-help.github.io/">Return to mainpage</a> </p>
