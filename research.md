@@ -1,8 +1,7 @@
-<head>
-    <meta charset="utf-8">
-    <title>Current Research Projects</title>
-    <description> A brief summary of current research </description>
-  </head>
+layout: page
+title: Current Research Projects
+description: A brief description of ongoing research
+permalink: /research
 
 ## German Adjectives and Degree Modification
 _Dissertation Project_
