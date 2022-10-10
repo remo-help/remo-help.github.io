@@ -1,7 +1,9 @@
+---
 layout: page
 title: Current Research Projects
 description: A brief description of ongoing research
 permalink: /research
+---
 
 ## German Adjectives and Degree Modification
 _Dissertation Project_
