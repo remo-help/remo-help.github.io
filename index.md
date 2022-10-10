@@ -1,9 +1,10 @@
-# Remo Nitschke
+<h1 style="text-align: center;">Remo Nitschke</h1>
+<p style="text-align: center;"> <em>Linguist and NLP engineer </em></p>
 
-Welcome to my website. This website is currently under construction.
+
+I am a PhD candidate at the Linguistics department at the University of Arizona. My research is in theoretical linguistics (Syntax and Language Evolution) and computational linguistics/NLP.
 
 ## Sitemap
 1. [Research](research.md)
-2. [Publications](pubs.md)
-3. [CV](cv.md)
+2. [CV](files/Full_Form_Academic_CV.pdf)
 

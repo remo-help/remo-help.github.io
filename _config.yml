@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: [Remo Nitschke]
 description: [My Personal Website]
+show_downloads: false
