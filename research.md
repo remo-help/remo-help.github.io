@@ -1,7 +1,7 @@
 ---
 #preamble
 title: Current Research Projects
-description: <em>A brief description of ongoing research<\em>
+description: <em>A brief description of ongoing research</em>
 ---
 
 
