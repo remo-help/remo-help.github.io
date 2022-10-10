@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Remo Nitschke</h1>
-<p style="text-align: center;"> <em>Linguist and NLP engineer </em></p>
+
 
 
 I am a PhD candidate at the Linguistics department at the University of Arizona. My research is in theoretical linguistics (Syntax and Language Evolution) and computational linguistics/NLP.
