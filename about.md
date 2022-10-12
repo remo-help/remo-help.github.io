@@ -1,6 +1,6 @@
 ---
 title: About Me
-description: <em>research interests and other fun facts<\em>
+description: <em>research interests and other fun facts</em>
 ---
 
 I like to think about language, both from a theoretical perspective, as well as from a practical engineering perspective. 
