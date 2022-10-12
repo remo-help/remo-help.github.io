@@ -25,3 +25,7 @@ These two perspectives will often collide, which makes life interesting.
 ## Other Interests
   When I'm not working on some language related problem, you can find me on hikes in the mountains or foraging wild mushrooms and berries. Sometimes, 
   when I'm procrastinating, you might even find me replying to github issues of libraries I recently worked with.
+
+
+
+<p style="text-align: right;"> <a href="https://remo-help.github.io/">Return to mainpage</a> </p>
