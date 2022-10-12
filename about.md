@@ -2,13 +2,12 @@
 title: About Me
 description: <em>research interests and other fun facts</em>
 ---
-
-I like to think about language, both from a theoretical perspective, as well as from a practical engineering perspective. 
-These two perspectives will often collide, which makes life interesting.
-
   
  
 ## Research Interests
+I like to think about language, both from a theoretical perspective, as well as from a practical engineering perspective. 
+These two perspectives will often collide, which makes life interesting.
+
   
 ### Computational Linguistics/NLP
   I am interested in situations where neural approaches to NLP struggle because of limited data, either for lack of data in general, or lack of resources in procuring data.
@@ -21,6 +20,8 @@ These two perspectives will often collide, which makes life interesting.
 ### Evolution of Language 
   I am interested in topics pertaining the evolution of language capability in humans. 
   Specifically, I am interested in the phenomena of home-sign and emergent sign languages and how they can inform us on the conditions under which human language can arise.
+
+
 
 ## Other Interests
   When I'm not working on some language related problem, you can find me on hikes in the mountains or foraging wild mushrooms and berries. Sometimes, 
