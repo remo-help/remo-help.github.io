@@ -20,7 +20,7 @@ _CENA_ is an emergent sign language in Piauí, Brasil, that arose out of a homes
 ## Informative Event Extraction for Dynamic Domains
 _Collaboration with: Yuwei Wang, Chen Chen (University of Arizona)_
 
-The team I lead within the ToMCAT project maintains a rule based event extraction (EE) system. The domain we work in consists of spontaneous speech within a game-like context. The game setting itself is subject to change with very little notice. This leads to a very dynamic domain that does not lend itself to deep learning approaches. We are looking at ways to utilize our rule-based system to fine-tune a deep learning system. We are also working on co-reference resolution in natural dialogues.
+The team I lead within the ToMCAT project maintains a rule based event extraction (EE) system. The domain we work in consists of spontaneous speech within a game-like context. The game setting itself is subject to change with very little notice. This leads to a very dynamic domain that does not lend itself to deep learning approaches. We are looking at ways to utilize our rule-based system to fine-tune a deep learning system. Currently, we are exploring whether NLP outputs (Dialog Act Labels, Event Labels, Sentiment Labels) of a team-dialogue are predictive of the team members' attitudes towards their team and their conversations.
 
 
 <p style="text-align: right;"> <a href="https://remo-help.github.io/">Return to mainpage</a> </p>
