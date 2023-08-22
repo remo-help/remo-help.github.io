@@ -7,7 +7,7 @@ I am a PhD candidate at the Linguistics department at the University of Arizona.
 1. [About](about.md)
 2. [Research](research.md)
 3. [CV](files/Full_Form_Academic_CV.pdf)
-4. [Dissertation](Nitschke_dissertation_final_submission.pdf)
+4. [Dissertation](Nitschke2023.pdf)
 5. [github](https://github.com/remo-help)
 6. [gitlab](https://gitlab.asist.aptima.com/nitschke)
 
