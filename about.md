@@ -11,15 +11,12 @@ These two perspectives will often collide, which makes life interesting.
   
 ### Computational Linguistics/NLP
   I am interested in situations where neural approaches to NLP struggle because of limited data, either for lack of data in general, or lack of resources in procuring data.
-  Adjacent to this, I have an interest in neural machine translation and ways to make it accessible to under-served communities. 
-  My other interests in this area are in Information Extraction Systems and ways to capture complex dialog events. I also have a penchant for AI explainability and transparency.
-  
-### Syntax of Adjectives 
-  I am interested in the syntax and of adjectives cross-linguistically, especially with regards to their relationship with degree modifiers such as _much_.
+
   
 ### Evolution of Language 
   I am interested in topics pertaining the evolution of language capability in humans. 
   Specifically, I am interested in the phenomena of home-sign and emergent sign languages and how they can inform us on the conditions under which human language can arise.
+  In this context, I am also interested in the communication systems of animals.
 
 
 
