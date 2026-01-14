@@ -6,11 +6,12 @@ description: <em>research interests and other fun facts</em>
  
 ## Research Interests
 I like to think about language, both from a theoretical perspective, as well as from a practical engineering perspective. 
-These two perspectives will often collide, which makes life interesting.
+These two perspectives will often collide, which makes life interesting. My favourite questions are those where computational approches can inform theory.
 
   
 ### Computational Linguistics/NLP
-  I am interested in situations where neural approaches to NLP struggle because of limited data, either for lack of data in general, or lack of resources in procuring data.
+  I am interested in situations where neural approaches to NLP struggle because of limited data, either for lack of data in general, or lack of resources in procuring data. 
+  I am also generally interested in situations where computational approaches can inform other linguistic research, such as creating tagged and parsed corpora.
 
   
 ### Evolution of Language 
